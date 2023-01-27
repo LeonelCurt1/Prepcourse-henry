@@ -1,2 +1,1 @@
-# Prepcourse-henry
-probando repositorio en la nube de henry
+Este proyecto es una prueba de como copiar un repositorio en la nube y trabajar en el desde mi computadora de forma local
